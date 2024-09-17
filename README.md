@@ -1,4 +1,4 @@
-# Rutgers MSDS-534 (Fall 2023)
+# Rutgers MSDS-534 (Fall 2024)
 
 Welcome to MSDS-534! Here we will share computing resources for the class.
 
@@ -31,8 +31,6 @@ This is a nice introduction to PyTorch -- it starts with a basic linear model an
 Here we will post Jupyter Notebooks from the lectures.
 
 - [Lecture 1](lectures/lecture-1/lecture-1.ipynb)
-- [Lecture 2](lectures/lecture-2/lecture-2.ipynb)
-- [Lecture 3](lectures/lecture-3/lecture-3.ipynb)
 
 
 
