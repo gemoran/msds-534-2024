@@ -6,6 +6,10 @@
 **/logs/**
 fig/**
 
+*.csv
+*.pt
+tinyshakespeare.txt
+
 ## macOS
 # General
 .DS_Store
@@ -682,6 +686,3 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
-
-wine.csv
-fine-tuned-bert.pt
